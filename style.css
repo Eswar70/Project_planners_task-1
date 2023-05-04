@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.grocery-logo {
+    width: 80px;
+    height: 70px;
+    border-radius: 50%;
+    border: 2px solid;
+}
+
+.navbar {
+    background-color: lightgreen;
+    border: 2px solid;
+}
+
+.navbar-nav {
+    text-align: center;
+}
+
+.nav-link {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.nav-item {
+    padding-left: 10px;
+}
+
+.nav-item:hover {
+    color: orange;
+    transition: 0.5s;
+    font-weight: bold;
+}
+
+.dropdown-menu {
+    background-image: linear-gradient(to bottom, lightgreen, lightyellow);
+    border: none;
+}
+
+.dropdown-item {
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.dropdown-item:hover {
+    color: darkorange;
+    transition: 0.5s;
+    font-weight: bold;
+    background-color: transparent;
+}
+
+.search-text {
+    font-family: "Roboto";
+    font-style: italic;
+    font-weight: 200;
+    font-size: 15px;
+    width: 300px;
+    padding-left: 10px;
+    border-radius: 8px 0 0 8px;
+    height: 40px;
+}
+
+.search-text:hover {
+    background-color: lightpink;
+    transition: 0.5s;
+}
+
+.search-button {
+    border-radius: 0 8px 8px 0;
+    height: 40px;
+    width: 80px;
+    background-color: transparent;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.search-button:hover {
+    background-color: darkorange;
+    transition: 0.5s;
+}
+
+.carousel-item img {
+    height: 400px;
+    width: 100%;
+}
+
+.our-quality {
+    height: 200px;
+    border: 1px solid green;
+    background-color: white;
+    margin-top: 20px;
+    text-align: center;
+    padding: 10px;
+    padding-top: 30px;
+}
+
+.our-quality h1 {
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.our-quality p {
+    font-style: italic;
+}
+
+.products {
+    height: 500px;
+    width: 100%;
+    border: 1px solid blue;
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.products:hover {
+    background-color: lightgreen;
+    transition: 1s;
+    transform-style: preserve-3d;
+}
+
+.image {
+    height: 55%;
+    width: 100%;
+    padding-bottom: 10px;
+}
+
+.products p {
+    font-family: "Roboto";
+}
+
+.products h3 {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.products button {
+    background-color: transparent;
+    height: 40px;
+    border-radius: 10px;
+    font-family: "Sans-Serif";
+    margin-bottom: 20%;
+    font-size: 15PX;
+}
+
+.products button:hover {
+    background-color: orange;
+    transition: 0.5s;
+    color: #fff;
+    font-family: "Roboto";
+    font-size: 15PX;
+    transform-style: preserve-3d;
+}
+
+.about-grocery {
+    text-align: center;
+    border: 1px solid red;
+    padding: 10px;
+    border-radius: 12px;
+}
+
+.about-grocery h1 {
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.about-grocery p {
+    font-weight: 300;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.footer-section ul {
+    list-style: none;
+}
+
+.footer-section ul li {
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 12px;
+}
+.h3{
+    font-size: 15px;
+}
+
+.heading {
+    font-weight: bold!important;
+    font-family: "Roboto";
+    font-size: 15px!important;
+}
+.img{
+    width: 100px;
+    margin-top: 8px;
+}
+
+
+
+
+
